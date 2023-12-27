@@ -1,0 +1,310 @@
+[
+ {
+  title: "Higher Engineering Mathematics",
+  author: "B S Grewal",
+  year: 2000,
+  quantity: 46,
+  imageUrl: ".\/img\/1.jpg"
+ },
+ {
+  title: "Information Technology",
+  author: "Dennis P.Curtlin",
+  year: 1999,
+  quantity: 22,
+  imageUrl: ".\/img\/2.jpg"
+ },
+ {
+  title: "Engineering Mathematics-I",
+  author: "Lajpat Rai",
+  year: 1999,
+  quantity: 40,
+  imageUrl: ".\/img\/3.jpg"
+ },
+ {
+  title: "Engineering Drawing",
+  author: "N D bhatt",
+  year: 2000,
+  quantity: 21,
+  imageUrl: ".\/img\/4.jpg"
+ },
+ {
+  title: "Introduction to Microprocessors",
+  author: "Aditya P Mathur",
+  year: 1989,
+  quantity: 14,
+  imageUrl: ".\/img\/5.jpg"
+ },
+ {
+  title: "Discrete Mathematical Structures",
+  author: "Jean-Paul,Tremblay",
+  year: 1997,
+  quantity: 14,
+  imageUrl: ".\/img\/6.jpg"
+ },
+ {
+  title: "Programmin With Java",
+  author: "E.Balaguruswamy",
+  year: 1998,
+  quantity: 22,
+  imageUrl: ".\/img\/7.jpg"
+ },
+ {
+  title: "Engineering mathematics-III",
+  author: "Lajpat Rai",
+  year: 2000,
+  quantity: 8,
+  imageUrl: ".\/img\/8.jpg"
+ },
+ {
+  title: "Digital Logic and Computer Design",
+  author: "M.Morris Mano",
+  year: 2001,
+  quantity: 10,
+  imageUrl: ".\/img\/9.jpg"
+ },
+ {
+  title: "Operating Systems",
+  author: "William Stallings",
+  year: 2001,
+  quantity: 10,
+  imageUrl: ".\/img\/10.jpg"
+ },
+ {
+  title: "The C Programming Language",
+  author: "Brain W Kernighanrnighan,Dennis M Ritchie",
+  year: 2001,
+  quantity: 12,
+  imageUrl: ".\/img\/11.jpg"
+ },
+ {
+  title: "Programming in ANSII c",
+  author: "E.Balaguruswamy",
+  year: 1989,
+  quantity: 18,
+  imageUrl: ".\/img\/12.jpg"
+ },
+ {
+  title: "Advanced Engineering Mathematics",
+  author: "Erwin Kreyszig",
+  year: 1999,
+  quantity: 10,
+  imageUrl: ".\/img\/13.jpg"
+ },
+ {
+  title: "Probability and statistics for Engineers",
+  author: "C R S.Muller",
+  year: 1995,
+  quantity: 12,
+  imageUrl: ".\/img\/14.jpg"
+ },
+ {
+  title: "Object Oriented in C++ Programming",
+  author: "NabaJyoti,Barkakati",
+  year: 2001,
+  quantity: 6,
+  imageUrl: ".\/img\/15.jpg"
+ },
+ {
+  title: "Disrtibute Database principles and Systems",
+  author: "Stefano Ceri",
+  year: 1985,
+  quantity: 5,
+  imageUrl: ".\/img\/16.jpg"
+ },
+ {
+  title: "Systems Programming Operating Systems",
+  author: "D M.Dhamdhere",
+  year: 1996,
+  quantity: 7,
+  imageUrl: ".\/img\/17.jpg"
+ },
+ {
+  title: "Computer Organization",
+  author: "V Carl Hamacher",
+  year: 1996,
+  quantity: 4,
+  imageUrl: ".\/img\/18.jpg"
+ },
+ {
+  title: "The UNIX Programming of India",
+  author: "W Kernighan",
+  year: 2000,
+  quantity: 7,
+  imageUrl: ".\/img\/19.jpg"
+ },
+ {
+  title: "Operating Systems",
+  author: "Charles Chrowly",
+  year: 1998,
+  quantity: 7,
+  imageUrl: ".\/img\/20.jpg"
+ },
+ {
+  title: "Data Communications and Networking",
+  author: "Behrouz A Forouzan",
+  year: 2000,
+  quantity: 5,
+  imageUrl: ".\/img\/21.jpg"
+ },
+ {
+  title: "Database Management Systems",
+  author: "Raghu Ramakrishnan",
+  year: 2000,
+  quantity: 6,
+  imageUrl: ".\/img\/22.jpg"
+ },
+ {
+  title: "computer Networks",
+  author: "Andrew S Tanenbaum",
+  year: 2000,
+  quantity: 11,
+  imageUrl: ".\/img\/23.jpg"
+ },
+ {
+  title: "C++ An Introduction Programming",
+  author: "Jesse,Liberty",
+  year: 1999,
+  quantity: 4,
+  imageUrl: ".\/img\/24.jpg"
+ },
+ {
+  title: "Engineering Mathematics",
+  author: "S S.Sastry",
+  year: 2001,
+  quantity: 4,
+  imageUrl: ".\/img\/25.jpg"
+ },
+ {
+  title: "computer Networks",
+  author: "Uysless,Black",
+  year: 2000,
+  quantity: 6,
+  imageUrl: ".\/img\/26.jpg"
+ },
+ {
+  title: "Using Information Technology",
+  author: "Brain K,Williams",
+  year: 1999,
+  quantity: 7,
+  imageUrl: ".\/img\/27.jpg"
+ },
+ {
+  title: "Computers and Technology Information",
+  author: "E G.Rajan",
+  year: 2000,
+  quantity: 7,
+  imageUrl: ".\/img\/28.jpg"
+ },
+ {
+  title: "Engineering Mathematics",
+  author: "S K V S.Ramachary",
+  year: 2000,
+  quantity: 4,
+  imageUrl: ".\/img\/29.jpg"
+ },
+ {
+  title: "Programming With C",
+  author: "K R.Venugopal",
+  year: 1997,
+  quantity: 3,
+  imageUrl: ".\/img\/30.jpg"
+ },
+ {
+  title: "Physics for Engineers",
+  author: "M R.Srinivasan",
+  year: 1996,
+  quantity: 3,
+  imageUrl: ".\/img\/31.jpg"
+ },
+ {
+  title: "Discrete Mathematical Structures",
+  author: "Bernard,Kolman lman",
+  year: 2000,
+  quantity: 2,
+  imageUrl: ".\/img\/32.jpg"
+ },
+ {
+  title: "Ordinary and Partial differnitial Equations",
+  author: "M D.Raisinghania",
+  year: 2001,
+  quantity: 2,
+  imageUrl: ".\/img\/33.jpg"
+ },
+ {
+  title: "Numerical Methods in Enginering and Science",
+  author: "B S.Grewal",
+  year: 1999,
+  quantity: 4,
+  imageUrl: ".\/img\/34.jpg"
+ },
+ {
+  title: "Object Oriented Programming with C++ and Java",
+  author: "D samatha",
+  year: 2000,
+  quantity: 2,
+  imageUrl: ".\/img\/35.jpg"
+ },
+ {
+  title: "Discrete Mathematics",
+  author: "B S>Grewal",
+  year: 1993,
+  quantity: 3,
+  imageUrl: ".\/img\/36.jpg"
+ },
+ {
+  title: "Data Structures and Algorithms",
+  author: "Alfred v,Aho",
+  year: 2000,
+  quantity: 2,
+  imageUrl: ".\/img\/37.jpg"
+ },
+ {
+  title: "Let Us C",
+  author: "Yashavant,Kanetkar",
+  year: 1995,
+  quantity: 10,
+  imageUrl: ".\/img\/38.jpg"
+ },
+ {
+  title: "C",
+  author: "Herbret,Schildt",
+  year: 2000,
+  quantity: 11,
+  imageUrl: ".\/img\/39.jpg"
+ },
+ {
+  title: "Fundamentals of IT",
+  author: "Alexis,Leon",
+  year: 1999,
+  quantity: 2,
+  imageUrl: ".\/img\/40.jpg"
+ },
+ {
+  title: "Computers and Information Technology",
+  author: "E G.Rajan",
+  year: 2000,
+  quantity: 3,
+  imageUrl: ".\/img\/41.jpg"
+ },
+ {
+  title: "Engineering Chemistry",
+  author: "B K Sharma",
+  year: 2001,
+  quantity: 10,
+  imageUrl: ".\/img\/42.jpg"
+ },
+ {
+  title: "Engineering Physics",
+  author: "R K.Gaur",
+  year: 2001,
+  quantity: 9,
+  imageUrl: ".\/img\/43.jpg"
+ },
+ {
+  title: "Engineering Chemisty",
+  author: "P C.Jain",
+  year: 1999,
+  quantity: 6,
+  imageUrl: ".\/img\/44.jpg"
+ }
+]
